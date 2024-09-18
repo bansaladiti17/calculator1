@@ -8,7 +8,7 @@
 <style>
 body {
 	font-family: Arial, sans-serif;
-	background-color: 'blue';
+	background-color: #0000FF;
 	margin: 0;
 	padding: 0;
 }
